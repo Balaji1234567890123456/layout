@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bol {
+  border: 1px solid #64748b;
+  height: 100px;
+  width: 100px;
+}
+.p {
+  text-align: center;
+}
+.roy {
+  display: flex;
+}
+.content {
+  background-color: #e2e8f0;
+}
+.leftBar {
+  background-color: #cbd5e1;
+}

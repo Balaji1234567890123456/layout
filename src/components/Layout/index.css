@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.kick {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
